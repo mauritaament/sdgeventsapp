@@ -8,4 +8,4 @@ The problem that is being addressed is raising awareness about SDG events going 
 
 **Heroku Link:** https://sdgevents.herokuapp.com/
 
-**Adobe XD Interactive Mockup:** https://xd.adobe.com/embed/98cbd7e5-0357-4a93-7bca-0bdd17707d40-eefa/
+**Adobe XD Interactive Mockup:*** https://xd.adobe.com/embed/98cbd7e5-0357-4a93-7bca-0bdd17707d40-eefa/
