@@ -1,5 +1,6 @@
 import React, {useState} from "react";
 import {SignUpAuth} from "../../services/AuthFirebaseService.js";
+import {Link} from 'react-router-dom'
 
 export default function SignUp(props){
   let [email,setEmail]=useState("email");
@@ -32,7 +33,7 @@ export default function SignUp(props){
           </div>
           <button className="btn btn-primary" onClick={(e)=>onClickSignUp(e)}>Sign Up</button>
           <p>
-            Go back to <a href="/login">Log In</a>
+            Go back to <Link to="/login">Log In</Link>
           </p>
         </form>
       </div>
