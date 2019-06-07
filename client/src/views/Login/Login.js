@@ -44,7 +44,7 @@ export default class Login extends React.Component {
   render() {
     return (
         <div>
-          <h3>Welcome, Please Login</h3>
+          <h3>SDG Events Login</h3>
           <form className="needs-validation" noValidate>
             <div className="form-group">
               <label>email</label>
