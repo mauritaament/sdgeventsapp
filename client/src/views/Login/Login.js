@@ -3,6 +3,7 @@ import Cookies from 'universal-cookie'
 import * as COOKIENAMES from '../../helpers/CookieNames'
 import {FireBaseAuthentication} from "../../services/AuthFirebaseService.js";
 import history from "../../helpers/history";
+import {Link} from 'react-router-dom'
 const cookies = new Cookies();
 
 export default class Login extends React.Component {
@@ -63,7 +64,9 @@ export default class Login extends React.Component {
 
             <div>
               <br />
-              Don't have an account?<a href="/signup"> Sign Up</a>
+
+              Don't have an account?<Link to="/signup">Sign Up</Link>
+
             </div>
           </form>
         </div>
