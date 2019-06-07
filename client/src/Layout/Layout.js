@@ -125,7 +125,7 @@ function PersistentDrawerLeft(props) {
 <MenuIcon />
     </IconButton>
     <Typography variant="h6" noWrap>
-    Sustainable Development Goals Events
+    SDG Events
     </Typography>
     </Toolbar>
     </AppBar>
