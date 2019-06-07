@@ -1,4 +1,5 @@
-About: The purpose of this App is to help make people more aware of the United Nation's Sustainable Development Goals (UNSDG's) based off their current location, eventbrite API, and Google Maps API. These API's will autopopulate events for the user based off the users preferred SDG's that they select when they first login.
+#About:
+The purpose of this App is to help make people more aware of the United Nation's Sustainable Development Goals (UNSDG's) based off their current location, eventbrite API, and Google Maps API. These API's will autopopulate events for the user based off the users preferred SDG's that they select when they first login.
 
 To start app: npm run dev
 Heroku Link: https://sdgevents.herokuapp.com/
