@@ -17,7 +17,7 @@
     "json-schema": "^0.2.3",
     "leaflet": "^1.5.1",
     "moment": "2.23.0",
-    "node-sass": "4.11.0",
+    "node-sass": "4.13.1",
     "nodemon": "^1.19.1",
     "nouislider": "12.1.0",
     "nucleo": "0.0.0",
