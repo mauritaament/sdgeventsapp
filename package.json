@@ -28,7 +28,7 @@
     "cookie-parser": "^1.4.4",
     "express": "^4.17.1",
     "firebase": "^6.1.0",
-    "firebase-admin": "^8.0.0",
+    "firebase-admin": "^11.4.1",
     "json-schema": "^0.2.3",
     "mime-db": "^1.40.0",
     "react-alerts": "^0.3.0",
